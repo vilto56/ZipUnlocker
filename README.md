@@ -18,7 +18,7 @@ Kali
 1.apt-get update
 2.apt-get upgrade
 3.apt-get install python2
-4.got clone https://github.com/Sayuk49/ZipFileHack
+4.git clone https://github.com/Sayuk49/ZipFileHack
 5.cd ZipFileHack
 6.python2 ziphack.py
 
