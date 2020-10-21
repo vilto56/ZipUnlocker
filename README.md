@@ -22,6 +22,4 @@ Kali
 5.cd ZipFileHack
 6.python2 ziphack.py
 
-Warning;!!
-Do not copy this code without my permission.
-Please appreciate my hard work
+it open source
